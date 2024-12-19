@@ -59,7 +59,7 @@ const Form: React.FC = () => {
 
     try {
       await emailjs.send(
-        "service_tgdvry2",
+        "service_vdlqcvl",
         "template_n4traqr",
         prepareEmailData(),
         "bz-racFIdw40qpvrn"
